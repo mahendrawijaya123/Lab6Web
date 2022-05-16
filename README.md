@@ -1,6 +1,6 @@
 # Lab 6 Web
 
-![gambar hasil](lab6_css_framework/Screenshot%20(111).png)
+![Screenshot%20(111).png](lab6_css_framework/Screenshot%20(111).png)
 
 itu merupakan hasil layout dengan menggunakan framework boostrap
 
